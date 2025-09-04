@@ -1,8 +1,10 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
 export default defineConfig({
   plugins: [react()],
-  base: '/petAdoption/',
+  base: '/petAdoptionNew/', // must match your GitHub repo name
   build: {
-    outDir: '../dist'  // put build outside pawpal folder
+    outDir: 'dist' // Vite will auto-create this
   }
 })
-y
