@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mathivanana123.github.io/petAdoptionNew/src/home.jsx",
+  "homepage": "https://mathivanana123.github.io/petAdoptionNew",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
