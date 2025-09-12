@@ -30,7 +30,7 @@ Our mission: **Promote animal welfare & reduce pet abandonment.**
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/pet-adoption.git
+git clone https://github.com/mathivanana123/petAdoptionNew.git
 cd pet-adoption
 
 # Install dependencies
