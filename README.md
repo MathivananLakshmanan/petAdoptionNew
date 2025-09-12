@@ -1,65 +1,41 @@
-🐾 Pet Adoption Platform
+# 🐾 Pet Adoption Platform
 
-A web/mobile application that connects pet adopters with shelters, NGOs, and individuals who have pets available for adoption.
-This project promotes animal welfare, reduces abandonment, and makes it easier for loving homes to find pets in need.
+A **web * that connects pet adopters with shelters, NGOs, and individuals who want to give pets a new home.  
+Our mission: **Promote animal welfare & reduce pet abandonment.**
 
-🚀 Features
+---
 
-👤 User Roles
+## ✨ Key Features
 
-Adopters → Browse and apply for pets
+- 👤 **User Roles** → Adopters, Shelters/Owners, Admin  
+- 🐶 **Pet Listings** → Species, breed, age, vaccination, health info  
+- 🔎 **Search & Filter** → By type, breed, age, location  
+- 📝 **Adoption Requests** → Apply & track status  
+- 🔐 **Authentication** → Email / Google / Facebook login  
+- 🔔 **Notifications** → Alerts for approvals & new pets  
+- 📍 **Geolocation** → Find pets near you (Google Maps API)  
 
-Shelters/Owners → List pets for adoption
+---
 
-Admin → Manage listings and users
+## 🛠️ Tech Stack
 
-🐶 Pet Listings
+- **Frontend** → React.js / Next.js  
+- **Backend** → Node.js + Express OR Firebase  
+- **Database** → MongoDB / Firestore / PostgreSQL  
+- **Tools** → Firebase/AWS S3 (images), Google Maps API, Twilio/SendGrid (alerts)  
 
-Add/view pet details: species, breed, age, health status, vaccination
+---
 
-🔎 Search & Filter
+## ⚙️ Setup
 
-Find pets by type, breed, age, location
+```bash
+# Clone repo
+git clone https://github.com/your-username/pet-adoption.git
+cd pet-adoption
 
-📝 Adoption Requests
+# Install dependencies
+npm install
 
-Submit and track adoption applications
+# Start app
+npm run dev
 
-🔐 Authentication
-
-Login/Signup (email/Google/Facebook)
-
-🔔 Notifications
-
-Alerts for approvals, new listings
-
-📍 Geolocation Integration
-
-Find pets near you (Google Maps / Leaflet)
-
-🛠️ Tech Stack
-Frontend
-
-React.js / Next.js (web)
-
-
-
-Backend
-
-Node.js + Express
-
-OR Firebase (serverless backend)
-
-
-
-Database
-
-MongoDB / Firebase Firestore / PostgreSQL
-
-Other Tools
-
-Cloud Storage (Firebase / AWS S3) for images
-
-Google Maps API for location services
-
-Twilio/SendGrid for notifications
