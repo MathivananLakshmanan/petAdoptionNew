@@ -11,7 +11,7 @@ Our mission: **Promote animal welfare & reduce pet abandonment.**
 - 🐶 **Pet Listings** → Species, breed, age, vaccination, health info  
 - 🔎 **Search & Filter** → By type, breed, age, location  
 - 📝 **Adoption Requests** → Apply & track status  
-- 🔐 **Authentication** → Email / Google / Facebook login  
+- 🔐 **Authentication** → Email login  
 - 🔔 **Notifications** → Alerts for approvals & new pets  
 - 📍 **Geolocation** → Find pets near you (Google Maps API)  
 
