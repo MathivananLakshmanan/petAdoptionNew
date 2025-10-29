@@ -1,4 +1,4 @@
-# 🐾 Pet Adoption Platform
+# 🐾 Pet Adoption Platform  ( MVP)
 
 A **web * that connects pet adopters with shelters, NGOs, and individuals who want to give pets a new home.  
 Our mission: **Promote animal welfare & reduce pet abandonment.**
@@ -20,9 +20,9 @@ Our mission: **Promote animal welfare & reduce pet abandonment.**
 ## 🛠️ Tech Stack
 
 - **Frontend** → React.js / Next.js  
-- **Backend** → Node.js + Express OR Firebase  
-- **Database** → MongoDB / Firestore / PostgreSQL  
-- **Tools** → Firebase/AWS S3 (images), Google Maps API, Twilio/SendGrid (alerts)  
+- **Backend** → Node.js +  Firebase  
+- **Database** → / Firestore Database / 
+- **Tools** →  fully Javascript  / System design / backend firebase
 
 ---
 
