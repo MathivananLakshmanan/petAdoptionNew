@@ -22,7 +22,7 @@ Our mission: **Promote animal welfare & reduce pet abandonment.**
 - **Frontend** → React.js / Next.js  
 - **Backend** → Node.js +  Firebase  
 - **Database** → / Firestore Database / 
-- **Tools** →  fully Javascript  / System design / backend firebase
+- **Tools** →  Fully Javascript  / System design / backend firebase
 
 ---
 
